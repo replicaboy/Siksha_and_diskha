@@ -161,7 +161,7 @@ export default function Home() {
               </div>
               <h3 className="text-2xl font-bold mb-2 text-gray-900">Academic Classes (1-10)</h3>
               <p className="text-gray-600 mb-4">
-                Comprehensive subject coaching for all classes from 1 to 10, covering CBSE, ICSE, and Bihar Board syllabi
+                Comprehensive subject coaching for all classes from 1 to 10, covering CBSE, ICSE, and Bihar Board syllabus.
               </p>
               <Link
                 href="/courses/academic"
