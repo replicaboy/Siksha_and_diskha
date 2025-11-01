@@ -8,9 +8,9 @@ import WhatsAppButton from '@/components/WhatsAppButton';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Siksha And Diksha Classes - Quality Education in Banuali, Darbhanga',
-  description: 'Leading coaching center in Banuali, Darbhanga offering Classes 1-10 coaching for CBSE, ICSE, Bihar Board, English courses, Spoken English, and Polytechnic preparation.',
-  keywords: 'coaching center Darbhanga, Banuali coaching, CBSE coaching, ICSE coaching, Bihar Board, spoken English, polytechnic coaching',
+  title: 'Siksha And Diksha Classes - Quality Education in Banauli, Darbhanga',
+  description: 'Leading coaching center in Banauli, Darbhanga offering Classes 1-10 coaching for CBSE, ICSE, Bihar Board, English courses, Spoken English, and Polytechnic preparation.',
+  keywords: 'coaching center Darbhanga, Banauli coaching, CBSE coaching, ICSE coaching, Bihar Board, spoken English, polytechnic coaching',
 };
 
 export default function RootLayout({
