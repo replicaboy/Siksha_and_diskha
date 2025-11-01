@@ -26,7 +26,7 @@ export default function Home() {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
               </svg>
-              Banuali, Darbhanga - 847428
+              Banauli, Darbhanga - 847428
             </span>
           </div>
         </div>
@@ -41,7 +41,7 @@ export default function Home() {
                 Welcome to Siksha And Diksha Classes
               </h1>
               <p className="text-xl md:text-2xl mb-4 text-blue-100">
-                Excellence in Education | Banuali, Darbhanga
+                Excellence in Education | Banauli, Darbhanga
               </p>
               <p className="text-lg mb-8 text-blue-100">
                 Empowering students through quality education and personalized attention
