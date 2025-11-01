@@ -45,7 +45,7 @@ export default function SpokenEnglishPage() {
               We focus on building fluency, improving pronunciation and accent, expanding practical vocabulary, developing confidence in speaking, and mastering grammar for everyday conversation. Our interactive approach ensures that you get ample practice in real-world scenarios.
             </p>
             <p className="text-gray-600 mb-4 leading-relaxed text-lg">
-              Through group discussions, role-plays, presentations, and one-on-one practice sessions, you'll develop the skills needed to communicate effectively in English in any situation.
+              Through group discussions, role-plays, presentations, and one-on-one practice sessions, you&apos;ll develop the skills needed to communicate effectively in English in any situation.
             </p>
           </div>
         </div>
