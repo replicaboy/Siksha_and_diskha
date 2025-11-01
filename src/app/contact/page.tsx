@@ -34,8 +34,8 @@ export default function ContactPage() {
                 </svg>
               </div>
               <h3 className="font-bold text-lg mb-2 text-gray-900">Call Us</h3>
-              <a href="tel:+919XXXXXXXXX" className="text-blue-600 hover:underline">
-                +91-9XXXXXXXXX
+              <a href="tel:+919304641843" className="text-blue-600 hover:underline">
+                +91-9304641843
               </a>
             </div>
 
