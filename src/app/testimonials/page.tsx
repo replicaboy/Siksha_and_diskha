@@ -148,7 +148,7 @@ export default function TestimonialsPage() {
             Share Your Experience
           </h2>
           <p className="text-gray-600 mb-8 text-lg">
-            We'd love to hear from you! Share your experience with Siksha And Diksha Classes
+            We&apos;d love to hear from you! Share your experience with Siksha And Diksha Classes
           </p>
           <a
             href="/contact"
