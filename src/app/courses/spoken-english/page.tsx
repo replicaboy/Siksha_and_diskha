@@ -39,7 +39,7 @@ export default function SpokenEnglishPage() {
           <h2 className="text-3xl md:text-4xl font-bold mb-6 text-gray-900">About This Course</h2>
           <div className="prose max-w-none">
             <p className="text-gray-600 mb-4 leading-relaxed text-lg">
-              Our Spoken English course is designed to help you communicate confidently and fluently in English. Whether you're a student, a professional, or someone looking to improve their English speaking skills, this course provides practical training in conversational English.
+              Our Spoken English course is designed to help you communicate confidently and fluently in English. Whether you&apos;re a student, a professional, or someone looking to improve their English speaking skills, this course provides practical training in conversational English.
             </p>
             <p className="text-gray-600 mb-4 leading-relaxed text-lg">
               We focus on building fluency, improving pronunciation and accent, expanding practical vocabulary, developing confidence in speaking, and mastering grammar for everyday conversation. Our interactive approach ensures that you get ample practice in real-world scenarios.
