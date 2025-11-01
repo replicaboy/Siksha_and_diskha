@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useState } from 'react';
+import Image from 'next/image'; // यह इम्पोर्ट पहले से मौजूद है, बहुत अच्छा!
 
 export default function Header() {
   const pathname = usePathname();
@@ -25,13 +26,21 @@ export default function Header() {
     <header className="sticky top-0 z-50 bg-white border-b border-gray-200 shadow-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
-          {/* Logo */}
+          {/* Logo और नाम */}
           <Link
             href="/"
-            className="text-xl md:text-2xl font-bold text-primary hover:text-primary-dark transition-colors"
+            className="flex items-center gap-3 text-primary hover:text-primary-dark transition-colors"
             onClick={closeMobileMenu}
           >
-            SIKSHA AND DIKSHA CLASSES
+            <Image
+              src="/logo.png" // अगर आपकी फाइल का नाम अलग है, तो यहाँ बदलें
+              alt="Siksha And Diksha Classes Logo"
+              width={40} // आप इसे अपनी पसंद के अनुसार बदल सकते हैं
+              height={40} // आप इसे अपनी पसंद के अनुसार बदल सकते हैं
+            />
+            <span className="text-xl md:text-2xl font-bold">
+              SIKSHA AND DIKSHA CLASSES
+            </span>
           </Link>
 
           {/* Desktop Navigation */}
@@ -213,7 +222,7 @@ export default function Header() {
                     </Link>
                     <Link
                       href="/courses/polytechnic"
-                      className="block text-gray-600 hover:text-primary"
+                      className="block text-gray-600 hover:t ext-primary"
                       onClick={closeMobileMenu}
                     >
                       Polytechnic
