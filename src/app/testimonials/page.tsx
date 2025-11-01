@@ -33,7 +33,7 @@ export default function TestimonialsPage() {
       name: 'Sunita Devi',
       role: 'Parent of Class 7 Student',
       rating: 5,
-      text: 'The faculty is highly experienced and always ready to help with doubts. Regular parent-teacher meetings keep us informed about our child\'s progress. Highly recommend!',
+      text: 'The faculty is highly experienced and always ready to help with doubts. Regular parent-teacher meetings keep us informed about our child&apos;s progress. Highly recommend!',
     },
     {
       id: 5,
