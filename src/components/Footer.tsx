@@ -108,7 +108,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href={`https://wa.link/q42bmz`}
+                  href={`https://api.whatsapp.com/send?phone=919304641843&text=Hello!`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-white transition-colors flex items-center"
