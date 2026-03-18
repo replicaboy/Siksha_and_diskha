@@ -11,8 +11,7 @@ export default function WhatsAppButton() {
 
   const whatsappNumber = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '919XXXXXXXXX';
   const message = encodeURIComponent("Hello! I'm interested in learning more about Siksha And Diksha Classes.");
-  const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${message}`;
-
+  const whatsappUrl = `https://api.whatsapp.com/send?phone=919304641843&text=Hello!
   return (
     <a
       href={whatsappUrl}
