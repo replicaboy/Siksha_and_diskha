@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Siksha And Diksha Classes - Quality Education in Banauli, Darbhanga',
-  description: 'Leading coaching center in Banauli, Darbhanga offering Classes 1-10 coaching for CBSE, ICSE, Bihar Board, English courses, Spoken English, and Polytechnic preparation.',
+  description: 'Leading coaching center in Banauli, Darbhanga offering Classes Nursery to 10th coaching for CBSE, ICSE, Bihar Board, English courses, Spoken English, and Polytechnic preparation.',
   keywords: 'coaching center Darbhanga, Banauli coaching, CBSE coaching, ICSE coaching, Bihar Board, spoken English, polytechnic coaching',
 };
 
@@ -161,7 +161,7 @@ export default function Home() {
               </div>
               <h3 className="text-2xl font-bold mb-2 text-gray-900">Academic Classes (1-10)</h3>
               <p className="text-gray-600 mb-4">
-                Comprehensive subject coaching for all classes from 1 to 10, covering CBSE, ICSE, and Bihar Board syllabus.
+                Comprehensive subject coaching for all classes from Nursery to 10, covering CBSE, ICSE, and Bihar Board syllabus.
               </p>
               <Link
                 href="/courses/academic"
