@@ -11,7 +11,7 @@ export default function Footer() {
           <div>
             <h3 className="text-white text-lg font-bold mb-4">Siksha And Diksha Classes</h3>
             <p className="text-sm leading-relaxed">
-              Quality education for students from Classes 1-10, covering CBSE, ICSE, and Bihar Board. We also offer English and Polytechnic courses.
+              Quality education for students from Classes Nursery-10th, covering CBSE, ICSE, and Bihar Board. We also offer English and Polytechnic courses.
             </p>
           </div>
 
@@ -108,7 +108,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href={`https://wa.me/${process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '919XXXXXXXXX'}?text=Hello!%20I'm%20interested%20in%20learning%20more%20about%20Siksha%20And%20Diksha%20Classes.`}
+                  href={`https://wa.link/q42bmz`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-white transition-colors flex items-center"
