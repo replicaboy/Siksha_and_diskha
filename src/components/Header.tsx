@@ -35,8 +35,8 @@ export default function Header() {
             <Image
               src="/logo.png" // अगर आपकी फाइल का नाम अलग है, तो यहाँ बदलें
               alt="Siksha And Diksha Classes Logo"
-              width={40} // आप इसे अपनी पसंद के अनुसार बदल सकते हैं
-              height={40} // आप इसे अपनी पसंद के अनुसार बदल सकते हैं
+              width={100} // आप इसे अपनी पसंद के अनुसार बदल सकते हैं
+              height={100} // आप इसे अपनी पसंद के अनुसार बदल सकते हैं
             />
             <span className="text-xl md:text-2xl font-bold">
               SIKSHA AND DIKSHA CLASSES
