@@ -9,9 +9,9 @@ export default function WhatsAppButton() {
   // const isContactPage = pathname === '/contact';
   // if (isContactPage) return null;
 
-  const whatsappNumber = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '919XXXXXXXXX';
-  const message = encodeURIComponent("Hello! I'm interested in learning more about Siksha And Diksha Classes.");
-  const whatsappUrl = `https://api.whatsapp.com/send?phone=919304641843&text=Hello!
+  const whatsappNumber = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '919304641843'; // Apna fallback number yahan dal dein
+const message = encodeURIComponent("Hello! I'm interested in learning more about Siksha And Diksha Classes.");
+const whatsappUrl = `https://api.whatsapp.com/send?phone=${whatsappNumber}&text=${message}`;
   return (
     <a
       href={whatsappUrl}
