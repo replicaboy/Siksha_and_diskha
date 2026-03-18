@@ -48,7 +48,7 @@ export default function Home() {
               </p>
               <div className="flex flex-wrap gap-4 mb-8">
                 <div className="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-lg">
-                  <span className="font-semibold">Classes 1-10 | All Subjects</span>
+                  <span className="font-semibold">Classes Nursery-10th | All Subjects</span>
                 </div>
                 <div className="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-lg">
                   <span className="font-semibold">CBSE | ICSE | Bihar Board</span>
