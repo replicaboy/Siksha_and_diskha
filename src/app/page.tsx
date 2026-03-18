@@ -44,7 +44,7 @@ export default function Home() {
                 Excellence in Education | Banauli, Darbhanga
               </p>
               <p className="text-lg mb-8 text-blue-100">
-                Empowering students through quality education and personalized attention with the slogan "पढ़ाता नहीं सिखाता हूँ"
+                Empowering students through quality education and personalized attention with the slogan &quot;पढ़ाता नहीं सिखाता हूँ&quot;
               </p>
               <div className="flex flex-wrap gap-4 mb-8">
                 <div className="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-lg">
