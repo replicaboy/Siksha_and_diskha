@@ -19,7 +19,7 @@ export default function TestimonialsPage() {
       name: 'Rajesh Kumar',
       role: 'Parent of Class 8 Student',
       rating: 5,
-      text: "My son&apos;s grades improved significantly after joining Siksha And Diksha Classes. The teachers are very supportive and caring. We are very satisfied with the personalized attention.",
+      text: "My son's grades improved significantly after joining Siksha And Diksha Classes. The teachers are very supportive and caring. We are very satisfied with the personalized attention.",
     },
     {
       id: 3,
