@@ -49,7 +49,7 @@ export default function AcademicCoursePage() {
             </p>
             <div className="bg-blue-50 border-l-4 border-blue-600 p-6 my-6">
               <p className="font-semibold text-blue-900 text-lg">
-                Classes Covered: "Nursery", "L.K.G.", "U.K.G.", 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+                Classes Covered: Nursery, L.K.G., U.K.G., 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
               </p>
             </div>
           </div>
