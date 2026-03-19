@@ -60,11 +60,7 @@ export default function GalleryPage() {
             ))}
           </div>
 
-          <div className="mt-12 text-center">
-            <p className="text-gray-600 mb-4">
-              These are placeholder images. Actual photos of our facilities, classrooms, students, and events can be added here.
-            </p>
-          </div>
+          
         </div>
       </section>
     </>
