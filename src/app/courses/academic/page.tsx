@@ -2,8 +2,8 @@ import Link from 'next/link';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Academic Classes (1-10) - Siksha And Diksha Classes',
-  description: 'Comprehensive coaching for Classes 1-10 covering all subjects for CBSE, ICSE, and Bihar Board at Siksha And Diksha Classes, Banuali, Darbhanga.',
+  title: 'Academic Classes (Nursery-10) - Siksha And Diksha Classes',
+  description: 'Comprehensive coaching for Classes Nursery-10 covering all subjects for CBSE, ICSE, and Bihar Board at Siksha And Diksha Classes, Banuali, Darbhanga.',
 };
 
 export default function AcademicCoursePage() {
@@ -26,7 +26,7 @@ export default function AcademicCoursePage() {
               </svg>
             </div>
             <div>
-              <h1 className="text-4xl md:text-5xl font-bold mb-2">Academic Classes (1-10)</h1>
+              <h1 className="text-4xl md:text-5xl font-bold mb-2">Academic Classes (Nursery-10)</h1>
               <p className="text-xl text-blue-100">Comprehensive Subject Coaching for All Major Boards</p>
             </div>
           </div>
@@ -39,7 +39,7 @@ export default function AcademicCoursePage() {
           <h2 className="text-3xl md:text-4xl font-bold mb-6 text-gray-900">About This Course</h2>
           <div className="prose max-w-none">
             <p className="text-gray-600 mb-4 leading-relaxed text-lg">
-              Our Academic Classes program provides comprehensive coaching for students from Class 1 to Class 10, covering all subjects across multiple educational boards. We understand that these foundational years are crucial for building strong academic fundamentals and developing a genuine interest in learning.
+              Our Academic Classes program provides comprehensive coaching for students from Class Nursery to Class 10, covering all subjects across multiple educational boards. We understand that these foundational years are crucial for building strong academic fundamentals and developing a genuine interest in learning.
             </p>
             <p className="text-gray-600 mb-4 leading-relaxed text-lg">
               Our experienced faculty members use proven teaching methodologies that make complex concepts easy to understand. We focus not just on rote learning, but on developing critical thinking skills and deep conceptual understanding that prepares students for success in board examinations and beyond.
@@ -49,7 +49,7 @@ export default function AcademicCoursePage() {
             </p>
             <div className="bg-blue-50 border-l-4 border-blue-600 p-6 my-6">
               <p className="font-semibold text-blue-900 text-lg">
-                Classes Covered: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+                Classes Covered: "Nursery", "L.K.G.", "U.K.G.", 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
               </p>
             </div>
           </div>
