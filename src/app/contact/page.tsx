@@ -47,8 +47,8 @@ export default function ContactPage() {
                 </svg>
               </div>
               <h3 className="font-bold text-lg mb-2 text-gray-900">Email Us</h3>
-              <a href="mailto:info@sikshaanddiksha.com" className="text-green-600 hover:underline break-all">
-                info@sikshaanddiksha.com
+              <a href="mailto:sikshaanddikshaclasses@gmail.com" className="text-green-600 hover:underline break-all">
+                sikshaanddikshaclasses@gmail.com
               </a>
             </div>
 
