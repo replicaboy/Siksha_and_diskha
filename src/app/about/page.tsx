@@ -30,7 +30,7 @@ export default function AboutPage() {
                   Siksha And Diksha Classes has been a beacon of quality education in Banuali, Darbhanga. We are committed to nurturing young minds and helping students achieve their academic goals through personalized attention, experienced faculty, and proven teaching methodologies.
                 </p>
                 <p>
-                  Located in the heart of Banuali, we provide comprehensive coaching for students from Classes 1 to 10, covering all major educational boards including CBSE, ICSE, and Bihar Board. Our commitment extends beyond academic excellence to include specialized courses in English language development and technical education preparation.
+                  Located in the heart of Banuali, we provide comprehensive coaching for students from Classes Nursery to 10, covering all major educational boards including CBSE, ICSE, and Bihar Board. Our commitment extends beyond academic excellence to include specialized courses in English language development and technical education preparation.
                 </p>
                 <p>
                   With a focus on holistic development, we ensure that every student receives the guidance and support they need to excel not just in examinations, but in their overall educational journey. Our small batch sizes and individualized approach set us apart from conventional coaching centers.
