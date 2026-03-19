@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Our Courses - Siksha And Diksha Classes',
-  description: 'Explore our comprehensive courses: Academic Classes (1-10), English Courses, Spoken English, and Polytechnic preparation at Siksha And Diksha Classes, Darbhanga.',
+  description: 'Explore our comprehensive courses: Academic Classes (Nursery-10), English Courses, Spoken English, and Polytechnic preparation at Siksha And Diksha Classes, Darbhanga.',
 };
 
 export default function CoursesPage() {
@@ -33,16 +33,16 @@ export default function CoursesPage() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                 </svg>
               </div>
-              <h2 className="text-2xl md:text-3xl font-bold mb-4 text-gray-900">Academic Classes (1-10)</h2>
+              <h2 className="text-2xl md:text-3xl font-bold mb-4 text-gray-900">Academic Classes (Nursery-10)</h2>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                Comprehensive subject coaching for all classes from 1 to 10, covering all subjects. We provide expert guidance for CBSE, ICSE, and Bihar Board syllabi with personalized attention and regular assessments.
+                Comprehensive subject coaching for all classes from Nursery to 10, covering all subjects. We provide expert guidance for CBSE, ICSE, and Bihar Board syllabi with personalized attention and regular assessments.
               </p>
               <ul className="space-y-2 mb-6">
                 <li className="flex items-center text-gray-700">
                   <svg className="h-5 w-5 text-green-500 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                   </svg>
-                  Classes 1 to 10
+                  Classes Nursery to 10
                 </li>
                 <li className="flex items-center text-gray-700">
                   <svg className="h-5 w-5 text-green-500 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
