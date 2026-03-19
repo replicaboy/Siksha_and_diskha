@@ -136,7 +136,7 @@ export default function ContactForm() {
           className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-600 focus:border-transparent transition-colors"
         >
           <option value="">Select a course...</option>
-          <option value="Academic Classes (Nursery-10)">Academic Classes (Nursery-10)</option>
+          <option value="Academic Classes (1-10)">Academic Classes (1-10)</option>
           <option value="English Courses">English Courses</option>
           <option value="Spoken English">Spoken English</option>
           <option value="Polytechnic">Polytechnic</option>
