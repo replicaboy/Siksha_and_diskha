@@ -11,7 +11,7 @@ export default function GalleryPage() {
   const galleryImages = [
     { id: 1, url: 'https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=600', caption: 'Classroom Learning' },
     { id: 2, url: 'https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600', caption: 'Interactive Sessions' },
-    { id: 3, url: 'https://tse1.mm.bing.net/th/id/OIP.5d826XaCVYjtWxQD-CgmjgHaFj?rs=1&pid=ImgDetMain&o=7&rm=3?w=600', caption: 'Student Studying' },
+    { id: 3, url: 'https://tse1.mm.bing.net/th/id/OIP.5d826XaCVYjtWxQD-CgmjgHaFj?rs=1&pid=ImgDetMain&o=7&rm=3', caption: 'Student Studying' },
     { id: 4, url: 'https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600', caption: 'Group Discussion' },
     { id: 5, url: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600', caption: 'Collaborative Learning' },
     { id: 6, url: 'https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600', caption: 'Lecture Session' },
